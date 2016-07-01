@@ -1,3 +1,7 @@
-Hello World.
-
-May irrelevent in the future
+<html>
+  <title>Hello World</title>
+</html>
+<body>
+<h1>Hello World.</h1>
+</body>
+>>>>>>> refs/remotes/origin/hello-world-edits
